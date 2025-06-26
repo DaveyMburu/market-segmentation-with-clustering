@@ -11,6 +11,8 @@ In this lab you will:
 
 - Use clustering to create and interpret market segmentation on real-world data 
 
+# Check the index.ipynb for my working
+
 ## Getting Started
 
 In this lab, you're going to work with the [Wholesale customers dataset](https://archive.ics.uci.edu/ml/datasets/wholesale+customers) from the UCI Machine Learning datasets repository. This dataset contains data on wholesale purchasing information from real businesses. These businesses range from small cafes and hotels to grocery stores and other retailers. 
